@@ -1,0 +1,5 @@
+baseURL = 'https://avi.shirgur.org/'
+languageCode = 'en-us'
+title = 'Avi Shirgur'
+theme = 'terminal'
+
